@@ -98,6 +98,8 @@ do
 		if (estadoCivilPasajero == "soltero")
 		{
 			edadMasJoven = edadPasajero;
+			nombreMujerJovenSoltera = nombrePasajero;
+				edadMujerJovenSoltera = edadPasajero;
 
 			if (edadMasJoven > edadPasajero)
 			{
